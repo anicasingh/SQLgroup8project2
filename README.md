@@ -8,7 +8,7 @@
 4. Nick Dortzbach [@dortzenbacher](https://www.github.com/dortzenbacher)
 5. Jonah Kilpi [@Jonah-Kilpi](https://www.github.com/Jonah-Kilpi)
 # Data Set:
-This dataset appears to be a record of traffic crashes, including details like crash date, time, location, and contributing factors. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage and provides data that could be used for traffic safety analysis.
+This data set was obtained from the US Data Government Website, and the publisher of the dataset is The City of New York. This dataset is a record of traffic crashes, including details like crash date, time, location, and contributing factors. The Motor Vehicle Collisions data tables contain information from all police-reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage and provides data that could be used for traffic safety analysis. This dataset could be used to analyze trends in traffic accidents, identify high-risk locations, and inform safety measures.
 # Questions:
 **1. In 2023, what was the total number of collisions that occurred during each hour of the day across the boroughs with the 3 highest number of collisions, and how did this distribution differ for the causes of driver inattention, backing unsafely, failure to yield the right-of-way, and following too closely?**
 
